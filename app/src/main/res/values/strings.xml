@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="homePage">Welcome to I Know Nigeria Quiz Competition</string>
+    <string name="submit1">Click to Start</string>
+    <string name="submit2">NEXT</string>
+    <string name="submit3">SUBMIT QUIZ</string>
+    <string name="welcome">Answer Correctly and win exciting prizes!</string>
+
+    <!--Text hint  -->
+    <string name="hint">Full Name:</string>
+
+    <string name="naijaflag">Nigerian Flag</string>
+
+    <!--Question 1 string declaration    -->
+    <string name="quest1">1. Nigeria got her independence in which year?</string>
+    <string name="choice1">August 12th 1978</string>
+    <string name="choice2">October 1st 1960</string>
+    <string name="choice3">May 29th 1953</string>
+
+    <!--Question 2 string declaration    -->
+    <string name="quest2">2. Which year did Nigeria became a republic?</string>
+    <string name="choice4">1960</string>
+    <string name="choice5">1973</string>
+    <string name="choice6">1961</string>
+
+
+    <!--Question 3 string declaration    -->
+    <string name="quest3">3. Who is the first prime minister of Nigeria?</string>
+    <string name="choice7">Alh. Shehu Shagari</string>
+    <string name="choice8">Alh. Ahmadu Bello</string>
+    <string name="choice9">Alh. Tafawa Balewa</string>
+
+
+    <!--Question 4 string declaration    -->
+    <string name="quest4">4. What is the capital of Nigeria?</string>
+    <string name="choice10">Lagos</string>
+    <string name="choice11">Abuja</string>
+    <string name="choice12">Kano</string>
+
+    <!--Question 5 string declaration    -->
+    <string name="quest5">5. Which two of the following are among the dominant ethnic groups in Nigeria?</string>
+    <string name="check1">Hausa</string>
+    <string name="check2">Idoma</string>
+    <string name="check3">Igbo</string>
+
+
+    <!-- Question 6 string declaration -->
+    <string name="quest6">6. The two popular rivers in Nigeria are?</string>
+    <string name="check4">Oji</string>
+    <string name="check5">Benue</string>
+    <string name="check6">Niger</string>
+
+    <!-- Question 7 string declaration -->
+    <string name="quest7">7. What is the total number of Senators in the Upper Legislative Chambers of the National Assembly?</string>
+    <string name="radio7">88</string>
+    <string name="radio77">108</string>
+    <string name="radio777">155</string>
+
+    <!-- Question 8 string declaration -->
+    <string name="quest8">8. How many States make up the Federal Republic  of Nigeria?</string>
+    <string name="radio8">30</string>
+    <string name="radio88">45</string>
+    <string name="radio888">36</string>
+
+    <!-- Question 9 -->
+    <string name="quest9">9. Who is the current president of Nigeria?</string>
+    <string name="textHint">Your answer is?</string>
+
+    <!-- Question 10 string declaration -->
+    <string name="quest10">10. What day is celebrated as a democracy day in Nigeria?</string>
+    <string name="radio0">March 29</string>
+    <string name="radio00">May 29</string>
+    <string name="radio000">June 12</string>
+
+</resources>
